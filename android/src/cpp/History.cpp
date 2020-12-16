@@ -1,3 +1,8 @@
+/*
+    Author: rustzz
+    Github: https://github.com/rustzz
+*/
+
 #include <iostream>
 #include <string>
 #include <map>

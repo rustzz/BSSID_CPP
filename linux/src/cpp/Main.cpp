@@ -1,6 +1,6 @@
 /*
-    Author: rustak
-    Github: https://github.com/rustakss
+    Author: rustzz
+    Github: https://github.com/rustzz
 */
 
 #define WORK true

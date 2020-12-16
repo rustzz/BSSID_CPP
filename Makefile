@@ -8,7 +8,7 @@ SBUILDDIR	=		build/static
 TARGETOUT	=		$(TARGETDIR)/$(ARCH)
 BUILDOUT	=		$(BUILDDIR)/$(ARCH)
 SBUILDOUT	=		$(SBUILDDIR)/$(ARCH)
-OS			=		linux.windows
+OS			=		linux
 
 ifeq ($(DEBUG), true)
 	GDB		=		-g3 -ggdb
