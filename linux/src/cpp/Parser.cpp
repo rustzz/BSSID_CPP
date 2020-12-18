@@ -5,7 +5,7 @@
 
 #include <map>
 
-#include "../public/pugixml/pugixml.hpp"
+#include "../../../public/pugixml/pugixml.hpp"
 
 
 class Parser {
